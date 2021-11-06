@@ -1,6 +1,6 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am just a typical guy who sits in his room and codes just for fun
+### I am just a typical guy who sits in his room and codes just for fun
 
 ### so, curently (since) 2020 I am working on a discord bot written with python
 
