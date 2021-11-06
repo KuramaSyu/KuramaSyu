@@ -11,8 +11,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zp33dy&theme=tokyonight" alt="mystreak"/>
 ![zp33dy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zp33dy&theme=tokyonight&layout=compact)
 
-🌱 I’m currently (since 2020) working on a discord bot written with python. But this bot is currently private - so nothing really to see here expect my streak
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
