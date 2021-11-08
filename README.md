@@ -2,7 +2,7 @@
 
 ### I am just a typical guy who sits in his room and codes just for fun
 
-### so, curently (since) 2020 I am working on a discord bot written with python
+### Curently (since) 2020 I am working on a discord bot written with python
 
 ### also worth to notice is, that I love python - like you will see below
 
