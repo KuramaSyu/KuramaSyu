@@ -1,8 +1,6 @@
 <h1 align="center">hello</h1>
 
-### I am just a typical guy who sits in his room and codes just for fun
-
-### Curently (since) 2020 I am working on a discord bot written with python
+### ‮That's the question
 
 ### also worth to notice is, that I like Python - like you will see below
 
